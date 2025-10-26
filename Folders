@@ -1,0 +1,8 @@
+GreenInfrastructure-FortMyers/
+│
+├── README.md                 ← your main project overview 
+├── data/                     ← GIS layers, rainfall datasets, soil files (can include links or DOIs)
+├── models/                   ← IUWM or hydrologic modeling notes
+├── literature/               ← PDF references or citation list
+├── figures/                  ← images, maps, graphs
+└── docs/                     ← your Word/PPT submissions or FAIR data reflections
