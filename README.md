@@ -47,6 +47,18 @@ docs/ ← class assignments and FAIR-data reflections
 Graduate Researcher – MSCE Water Sustainable Engineering, FGCU  
 Added full project overview and citations
 
+# Data Availability Statement
+
+## Overview
+The data and model outputs supporting this study  *“Green Infrastructure for Runoff Reduction and Aquifer Recharge in Downtown Fort Myers”* are openly available in this GitHub repository. The repository includes GIS layers, hydrologic modeling files, literature references, and figures associated with the analysis of runoff reduction and aquifer recharge using small-scale green infrastructure (GI).
+## Access and Reuse
+All datasets are provided in standardized, interoperable formats (e.g., CSV, GML, and shapefile) to support reuse and integration with other urban hydrology and geospatial modeling projects. Metadata and documentation accompany each dataset to ensure transparency and reproducibility. The repository is publicly available at:
+ **GitHub Repository URL:** [https://github.com/YourUsername/GreenInfrastructure-FortMyers](https://github.com/YourUsername/GreenInfrastructure-FortMyers)
+
+---
+
+# License
+This project and its contents are licensed under the **MIT License**, permitting use, reuse, and modification with appropriate attribution.
 
 Modeling how small-scale green infrastructure reduces runoff and enhances aquifer recharge in downtown Fort Myers, Florida.
 
