@@ -33,13 +33,14 @@ All datasets, models, and outputs will include **Persistent Identifiers (DOIs, R
 
 ## Repository Structure
 
-GreenInfrastructure-FortMyers/
-│
-├── data/ ← GIS layers, rainfall datasets, soil files (or links)
-├── models/ ← IUWM model setup or outputs
-├── figures/ ← maps, charts, and graphics
-├── literature/ ← PDFs of peer-reviewed references
-└── docs/ ← class assignments and FAIR-data reflections
+Green Infrastructure-Fort Myers
+
+data/ ← GIS layers, rainfall datasets, soil files (or links)
+models/ ← IUWM model setup or outputs
+figures/ ← maps, charts, and graphics
+literature/ ← PDFs of peer-reviewed references
+docs/ ← class assignments and FAIR-data reflections
+
 
 ## Author
 **Deanna L. Stowe**  
