@@ -49,6 +49,10 @@ Added full project overview and citations
 
 # Data Availability Statement
 
+The data supporting this study are available at  
+👉 [https://github.com/YourUsername/GreenInfrastructure-FortMyers](https://github.com/YourUsername/GreenInfrastructure-FortMyers)  
+and archived at Zenodo under DOI: [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+
 ## Overview
 The data and model outputs supporting this study  *“Green Infrastructure for Runoff Reduction and Aquifer Recharge in Downtown Fort Myers”* are openly available in this GitHub repository. The repository includes GIS layers, hydrologic modeling files, literature references, and figures associated with the analysis of runoff reduction and aquifer recharge using small-scale green infrastructure (GI).
 ## Access and Reuse
